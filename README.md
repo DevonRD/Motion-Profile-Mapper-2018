@@ -43,16 +43,19 @@
 
 In my final year of high school, as lead programmer of FRC Team 3539, my main goal was to develop an 
 application that creates paths on the field that the robot could read and follow based solely on user 
-input. In the first 15 seconds of every game, the robot needed to move by itself, and instead of 
-hard-coding motor speeds and times manually, this application guided the robot along a set path. This 
-was easier to use and allowed us to be more versatile during competitions, where the ability to change 
-based on your teammates' needs was essential. I am extremely grateful to our mentor, Mr. VanCamp, who 
-provided framework and guidance and was absolutely essential in our journey to reaching the end product.
+input. In the first 15 seconds of every game the robot needed to move by itself, and instead of 
+hard-coding motor speeds and times manually and spending hours testing each resulting path, we created 
+this application to quickly design a specific path and automatically generate motor velocity and time 
+data in Java for the robot to follow that path. This was much easier to use and allowed us to be 
+more versatile during competitions, where the ability to change based on your teammates' needs was 
+essential. I am extremely grateful to our mentor, Mr. VanCamp, who provided framework and guidance 
+and was absolutely essential in our journey to reaching the end product.
 
 ### Built With
 
 * [Windows Forms](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+* [Java](https://www.java.com/en/)
 
 ### The User Interface
 
