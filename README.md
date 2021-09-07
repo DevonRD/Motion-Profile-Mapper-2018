@@ -79,7 +79,7 @@ Shown here are the corresponding velocity maps for the left (blue) and right (re
 This data was generated from the demonstrated path above! Turns are indicated by an increase in velocity 
 for one side and a decrease in velocity for the other side.
 
-<br><br>
+<br>
 
 Some issues that we had to work around were the minor physical differences between motors, the need to 
 ramp-up and ramp-down velocities for optimal performance (including battery saving), and possible 
@@ -142,7 +142,7 @@ Project Link: [https://github.com/DevonRD/Motion-Profile-Mapper-2018](https://gi
 [license-url]: https://github.com/DevonRD/Motion-Profile-Mapper-2018/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/devon-doyle/
-[demo-image]: images/map.PNG
-[profile-image]: images/creature.PNG
-[profile-marked-image]: images/neuron-illustration.jpg
+[demo-image]: images/profile_demo.gif
+[profile-marked-image]: images/profile_velocity.PNG
+[profile-image]: images/profile_velocity_nomarks.png
 [download-exe]: https://github.com/DevonRD/Motion-Profile-Mapper-2018
