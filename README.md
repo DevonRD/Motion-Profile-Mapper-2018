@@ -3,17 +3,17 @@
   <a href="https://devondoyle.com/"><img src="images/devon_suit.png" alt="Logo" width="150" height="150" style="border-radius:50%"></a>
   <h1 align="center">Motion Profile Mapper (2018)</h1>
   <p align="center">
-    <a href="https://github.com/DevonRD/Motion-Profile-Mapper-2018/network/members"><img src="https://img.shields.io/github/forks/DevonRD/Motion-Profile-Mapper-2018?style=for-the-badge"></img></a>
-    <a href="https://github.com/DevonRD/Motion-Profile-Mapper-2018/stargazers"><img src="https://img.shields.io/github/stars/DevonRD/Motion-Profile-Mapper-2018?style=for-the-badge"></img></a>
-    <a href="https://github.com/DevonRD/Motion-Profile-Mapper-2018/issues"><img src="https://img.shields.io/github/issues/DevonRD/Motion-Profile-Mapper-2018?style=for-the-badge"></img></a>
-    <a href="https://github.com/DevonRD/Motion-Profile-Mapper-2018/blob/master/LICENSE"><img src="https://img.shields.io/github/license/DevonRD/Motion-Profile-Mapper-2018?style=for-the-badge"></img></a>
+    <a href="https://github.com/DevonRD/Motion-Profile-Mapper-2018/network/members"><img src="https://img.shields.io/github/forks/DevonRD/Motion-Profile-Mapper-2018?style=for-the-badge"/></a>
+    <a href="https://github.com/DevonRD/Motion-Profile-Mapper-2018/stargazers"><img src="https://img.shields.io/github/stars/DevonRD/Motion-Profile-Mapper-2018?style=for-the-badge"/></a>
+    <a href="https://github.com/DevonRD/Motion-Profile-Mapper-2018/issues"><img src="https://img.shields.io/github/issues/DevonRD/Motion-Profile-Mapper-2018?style=for-the-badge"/></a>
+    <a href="https://github.com/DevonRD/Motion-Profile-Mapper-2018/blob/master/LICENSE"><img src="https://img.shields.io/github/license/DevonRD/Motion-Profile-Mapper-2018?style=for-the-badge"/></a>
   </p>
   <p align="center">
     <a href="https://github.com/DevonRD/Motion-Profile-Mapper-2018/issues">Report Bug</a>
     ·
     <a href="https://devondoyle.com/">My Portfolio</a>
 	<br><br>
-    <a href="https://linkedin.com/in/devon-doyle/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"></img></a>
+    <a href="https://linkedin.com/in/devon-doyle/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"/></a>
   </p>
 </p>
 
